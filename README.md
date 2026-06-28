@@ -1,4 +1,4 @@
-# 📚 Simple LMS System
+# 📚 FullLMS System
 
 A Learning Management System (LMS) built as my first university project.  
 It includes role-based dashboards for Admin, Manager, Teacher, and Student with full CRUD functionality for academic management.
